@@ -1,0 +1,40 @@
+F:\Curso\ProjetoOperacao\bin\Debug\ProjetoOperacao.exe.config
+F:\Curso\ProjetoOperacao\bin\Debug\ProjetoOperacao.exe
+F:\Curso\ProjetoOperacao\bin\Debug\ProjetoOperacao.pdb
+F:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.csprojAssemblyReference.cache
+F:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.FrmOperecao.resources
+F:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.Properties.Resources.resources
+F:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.csproj.GenerateResource.cache
+F:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.csproj.CoreCompileInputs.cache
+F:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.exe
+F:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.pdb
+E:\Curso\ProjetoOperacao\bin\Debug\ProjetoOperacao.exe.config
+E:\Curso\ProjetoOperacao\bin\Debug\ProjetoOperacao.exe
+E:\Curso\ProjetoOperacao\bin\Debug\ProjetoOperacao.pdb
+E:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.csprojAssemblyReference.cache
+E:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.FrmOperecao.resources
+E:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.Properties.Resources.resources
+E:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.csproj.GenerateResource.cache
+E:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.csproj.CoreCompileInputs.cache
+E:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.exe
+E:\Curso\ProjetoOperacao\obj\Debug\ProjetoOperacao.pdb
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\bin\Debug\ProjetoOperacao.exe.config
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\bin\Debug\ProjetoOperacao.exe
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\bin\Debug\ProjetoOperacao.pdb
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\obj\Debug\ProjetoOperacao.csprojAssemblyReference.cache
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\obj\Debug\ProjetoOperacao.FrmOperecao.resources
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\obj\Debug\ProjetoOperacao.Properties.Resources.resources
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\obj\Debug\ProjetoOperacao.csproj.GenerateResource.cache
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\obj\Debug\ProjetoOperacao.csproj.CoreCompileInputs.cache
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\obj\Debug\ProjetoOperacao.exe
+F:\C# 2020 - Obra social dom Bosco\ProjetoOperacao\obj\Debug\ProjetoOperacao.pdb
+E:\Github\ProjetoOperacao\bin\Debug\ProjetoOperacao.exe.config
+E:\Github\ProjetoOperacao\bin\Debug\ProjetoOperacao.exe
+E:\Github\ProjetoOperacao\bin\Debug\ProjetoOperacao.pdb
+E:\Github\ProjetoOperacao\obj\Debug\ProjetoOperacao.csprojAssemblyReference.cache
+E:\Github\ProjetoOperacao\obj\Debug\ProjetoOperacao.FrmOperecao.resources
+E:\Github\ProjetoOperacao\obj\Debug\ProjetoOperacao.Properties.Resources.resources
+E:\Github\ProjetoOperacao\obj\Debug\ProjetoOperacao.csproj.GenerateResource.cache
+E:\Github\ProjetoOperacao\obj\Debug\ProjetoOperacao.csproj.CoreCompileInputs.cache
+E:\Github\ProjetoOperacao\obj\Debug\ProjetoOperacao.exe
+E:\Github\ProjetoOperacao\obj\Debug\ProjetoOperacao.pdb
