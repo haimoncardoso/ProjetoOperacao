@@ -1,2 +1,2 @@
-# ProjetoOperacao
-Galera Fiz um Projeto simples Que tem como Intuito fazer operacoes Aritmetricas.
+# ProjectOperation
+ Guys I made a simple project that has the intention of doing arithmetic operations.
